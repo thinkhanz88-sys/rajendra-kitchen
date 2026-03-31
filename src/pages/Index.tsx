@@ -23,7 +23,7 @@ const Index = () => {
       <TestimonialsSection />
       <ContactSection />
       <Footer />
-      <WhatsAppFloat />
+      <ScrollToTop />
     </div>
   );
 };
